@@ -1,0 +1,19 @@
+{
+  "name": "color.js",
+  "version": "0.5.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "homepage": "https://github.com/harthur/color",
+  "authors": [
+    "Heather Arthur <fayeathur@gmail.com>"
+  ],
+  "description": "JavaScript library for color conversion and manipulation with support for CSS color strings",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+  ],
+}
